@@ -1,4 +1,7 @@
-# dirtycow
+# dirtycow 
+
+[![Build Status](https://travis-ci.org/xlucas/dirtycow.cr.svg?branch=master)](https://travis-ci.org/xlucas/dirtycow.cr)
+[![Github All Releases](https://img.shields.io/github/downloads/xlucas/dirtycow.cr/total.svg)](https://github.com/xlucas/dirtycow.cr/releases)
 
 CVE-2016-5195 exploit
 
